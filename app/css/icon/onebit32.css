@@ -1,0 +1,175 @@
+#widgeticontable{background-color:#eee; height:430px; width:620px !important; padding-left:5px}
+#widgeticontable [class^=wicon]{border:2px #eee solid; margin:1px}
+#widgeticontable [class^=wicon]:hover{border:2px #fff solid;}
+#widgeticontable .icon-remove:hover{background-color:#fff; cursor:pointer}
+#linkicondiv{background-color:#eee; border-collapse:separate; height:360px; width:400px !important; position:absolute; top:0; left:280px !important; padding-left:5px}
+#linkicondiv  [class^=icon]{border:2px #eee solid; margin:1px}
+#linkicondiv  [class^=icon]:hover{border:2px #fff solid;}
+/*.widgeticontable{background-color:#eee; border-collapse:separate; height:430px; width:620px !important; position:absolute; top:0; left:280px !important; padding:5px}
+.widgeticontable  [class^=wicon]{border:2px #eee solid; margin:1px; width:32px; height:32px;}
+.widgeticontable  [class^=wicon]:hover{border:2px #fff solid;}*/
+/*[class*='wicon']{border:2px transparent solid; background: url(../img/onebit32.jpg) no-repeat; width:32px; height:32px; float:left; margin-right:5px}*/
+/*[class*='wicon']{border:2px transparent solid; background: url(onebit32.jpg) no-repeat; width:32px; height:32px; float:left; margin-right:5px}*/
+[class*='wicon']{border:2px transparent solid; background: url(onebit32.jpg) no-repeat; width:30px; height:30px; float:left; margin-right:5px; vertical-align: middle}
+[class*='wicon']:hover{border:2px #fff solid;}
+/*.wicon {background-position: -491px -429px}*/ 
+/*.wiconblank {background-position: -491px -429px}*/ 
+.wicon {background-position: -570px -429px} 
+.wiconblank {background-position: -570px -429px} 
+
+.wicon0 {background-position: -8px -10px} 
+.wicon1 {background-position: -43px -10px} 
+.wicon2 {background-position: -78px -10px} 
+.wicon3 {background-position: -113px -10px} 
+.wicon4 {background-position: -148px -10px} 
+.wicon5 {background-position: -180px -10px} 
+.wicon6 {background-position: -215px -10px} 
+.wicon7 {background-position: -250px -10px} 
+.wicon8 {background-position: -285px -10px} 
+.wicon9 {background-position: -320px -10px} 
+.wicon10 {background-position: -353px -10px} 
+.wicon11 {background-position: -388px -10px} 
+.wicon12 {background-position: -423px -10px} 
+.wicon13 {background-position: -456px -10px} 
+.wicon14 {background-position: -491px -10px} 
+.wicon15 {background-position: -526px -10px}
+
+.wicon16 {background-position: -8px -62px} 
+.wicon17 {background-position: -43px -62px} 
+.wicon18 {background-position: -78px -62px} 
+.wicon19 {background-position: -113px -62px} 
+.wicon20 {background-position: -148px -62px} 
+.wicon21 {background-position: -180px -62px} 
+.wicon22 {background-position: -215px -62px} 
+.wicon23 {background-position: -250px -62px} 
+.wicon24 {background-position: -285px -62px} 
+.wicon25 {background-position: -320px -62px} 
+.wicon26 {background-position: -353px -62px} 
+.wicon27 {background-position: -388px -62px} 
+.wicon28 {background-position: -423px -62px} 
+.wicon29 {background-position: -456px -62px} 
+.wicon30 {background-position: -491px -62px} 
+.wicon31 {background-position: -526px -62px}
+
+.wicon32 {background-position: -8px -114px} 
+.wicon33 {background-position: -43px -114px} 
+.wicon34 {background-position: -78px -114px} 
+.wicon35 {background-position: -113px -114px} 
+.wicon36 {background-position: -148px -114px} 
+.wicon37 {background-position: -180px -114px} 
+.wicon38 {background-position: -215px -114px} 
+.wicon39 {background-position: -250px -114px} 
+.wicon40 {background-position: -285px -114px} 
+.wicon41 {background-position: -320px -114px} 
+.wicon42 {background-position: -353px -114px} 
+.wicon43 {background-position: -388px -114px} 
+.wicon44 {background-position: -423px -114px} 
+.wicon45 {background-position: -456px -114px} 
+.wicon46 {background-position: -491px -114px} 
+.wicon47 {background-position: -526px -114px} 
+
+.wicon48 {background-position: -8px -166px} 
+.wicon49 {background-position: -43px -166px} 
+.wicon50 {background-position: -78px -166px} 
+.wicon51 {background-position: -113px -166px} 
+.wicon52 {background-position: -148px -166px} 
+.wicon53 {background-position: -180px -166px} 
+.wicon54 {background-position: -215px -166px} 
+.wicon55 {background-position: -250px -166px} 
+.wicon56 {background-position: -285px -166px} 
+.wicon57 {background-position: -320px -166px} 
+.wicon58 {background-position: -353px -166px} 
+.wicon59 {background-position: -388px -166px} 
+.wicon60 {background-position: -423px -166px} 
+.wicon61 {background-position: -456px -166px} 
+.wicon62 {background-position: -491px -166px} 
+.wicon63 {background-position: -526px -166px} 
+
+.wicon64 {background-position: -8px -220px} 
+.wicon65 {background-position: -43px -220px} 
+.wicon66 {background-position: -78px -220px} 
+.wicon67 {background-position: -113px -220px} 
+.wicon68 {background-position: -148px -220px} 
+.wicon69 {background-position: -180px -220px} 
+.wicon70 {background-position: -215px -220px} 
+.wicon71 {background-position: -250px -220px} 
+.wicon72 {background-position: -285px -220px} 
+.wicon73 {background-position: -320px -220px} 
+.wicon74 {background-position: -353px -220px} 
+.wicon75 {background-position: -388px -220px} 
+.wicon76 {background-position: -423px -220px} 
+.wicon77 {background-position: -456px -220px} 
+.wicon78 {background-position: -491px -220px} 
+.wicon79 {background-position: -526px -220px} 
+
+.wicon80 {background-position: -8px -272px} 
+.wicon81 {background-position: -43px -272px} 
+.wicon82 {background-position: -78px -272px} 
+.wicon83 {background-position: -113px -272px} 
+.wicon84 {background-position: -148px -272px} 
+.wicon85 {background-position: -180px -272px} 
+.wicon86 {background-position: -215px -272px} 
+.wicon87 {background-position: -250px -272px} 
+.wicon88 {background-position: -285px -272px} 
+.wicon89 {background-position: -320px -272px} 
+.wicon90 {background-position: -353px -272px} 
+.wicon91 {background-position: -388px -272px} 
+.wicon92 {background-position: -423px -272px} 
+.wicon93 {background-position: -456px -272px} 
+.wicon94 {background-position: -491px -272px} 
+.wicon95 {background-position: -526px -272px} 
+
+.wicon96 {background-position: -8px -324px} 
+.wicon97 {background-position: -43px -324px} 
+.wicon98 {background-position: -78px -324px} 
+.wicon99 {background-position: -113px -324px} 
+.wicon100 {background-position: -148px -324px} 
+.wicon101 {background-position: -180px -324px} 
+.wicon102 {background-position: -215px -324px} 
+.wicon103 {background-position: -250px -324px} 
+.wicon104 {background-position: -285px -324px} 
+.wicon105 {background-position: -320px -324px} 
+.wicon106 {background-position: -353px -324px} 
+.wicon107 {background-position: -388px -324px} 
+.wicon108 {background-position: -423px -324px} 
+.wicon109 {background-position: -456px -324px} 
+.wicon110 {background-position: -491px -324px} 
+.wicon111 {background-position: -526px -324px} 
+
+.wicon112 {background-position: -8px -377px} 
+.wicon113 {background-position: -43px -377px} 
+.wicon114 {background-position: -78px -377px} 
+.wicon115 {background-position: -113px -377px} 
+.wicon116 {background-position: -148px -377px} 
+.wicon117 {background-position: -180px -377px} 
+.wicon118 {background-position: -215px -377px} 
+.wicon119 {background-position: -250px -377px} 
+.wicon120 {background-position: -285px -377px} 
+.wicon121 {background-position: -320px -377px} 
+.wicon122 {background-position: -353px -377px} 
+.wicon123 {background-position: -388px -377px} 
+.wicon124 {background-position: -423px -377px} 
+.wicon125 {background-position: -456px -377px} 
+.wicon126 {background-position: -491px -377px} 
+.wicon127 {background-position: -526px -377px} 
+
+.wicon128 {background-position: -8px -429px}
+.wicon129 {background-position: -43px -429px} 
+.wicon130 {background-position: -78px -429px} 
+.wicon131 {background-position: -113px -429px} 
+.wicon132 {background-position: -148px -429px} 
+.wicon133 {background-position: -180px -429px} 
+.wicon134 {background-position: -215px -429px} 
+.wicon135 {background-position: -250px -429px} 
+.wicon136 {background-position: -285px -429px} 
+.wicon137 {background-position: -320px -429px} 
+.wicon138 {background-position: -353px -429px} 
+.wicon139 {background-position: -388px -429px} 
+.wicon140 {background-position: -423px -429px} 
+.wicon141 {background-position: -456px -429px} 
+.wicon142 {background-position: -491px -429px} 
+.wicon143 {background-position: -526px -429px} 
+
+
+
+

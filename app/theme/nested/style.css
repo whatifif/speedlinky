@@ -1,0 +1,13 @@
+/* LIST #5 */
+/*.foldercontent { color:#eee; }
+.foldercontent ul { font-size:18px; }
+.foldercontent ul li { }
+.foldercontent ul li ul { list-style-image: url("images/nested.png"); padding:5px 0 5px 18px; font-size:15px; }
+.foldercontent ul li ul li { color:#bfe1f1; height:15px; margin-left:10px; }
+.ui-state-default{background-color:#eee}*/
+.foldercontent { color:#eee; }
+.foldercontent ul { font-size:18px; }
+.foldercontent ul li { }
+.foldercontent ul li { list-style-image: url("images/nested.png"); padding:5px 0 5px 1px; font-size:15px; }
+.foldercontent ul li { color:#bfe1f1; height:15px; margin-left:10px; }
+.ui-state-default{background-color:#eee}

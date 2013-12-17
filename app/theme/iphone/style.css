@@ -1,0 +1,14 @@
+/* LIST #4 */
+/*.foldercontent { width:320px; font-family:Georgia, Times, serif; font-size:15px; }*/
+.folderhead{ font-family:Georgia, Times, serif; font-size:16px; }
+.foldercontent { font-family:Georgia, Times, serif; font-size:15px; }
+.foldercontent ul { list-style: none; }
+.foldercontent ul li {}
+/*.foldercontent ul li a { display:block; text-decoration:none; color:#000000; background-color:#FFFFFF; line-height:30px;
+  border-bottom-style:solid; border-bottom-width:1px; border-bottom-color:#CCCCCC; padding-left:10px; cursor:pointer; }*/
+.folderhead, .foldercontent ul li { display:block; text-decoration:none; color:#000000; background-color:#FFFFFF; 
+  border-bottom-style:solid; border-bottom-width:1px; border-bottom-color:#CCCCCC; cursor:pointer; }
+/*.foldercontent ul li a:hover { color:#FFFFFF; background-image:url(images/hover.png); background-repeat:repeat-x;}*/
+.foldercontent ul li a:hover { color:#FFFFFF; background-image:url(images/hover.png); background-repeat:repeat;padding-top:1px}
+.foldercontent ul li a strong { margin-right:10px; }
+.ui-state-default{background-color:#eee}

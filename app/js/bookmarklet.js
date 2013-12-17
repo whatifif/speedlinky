@@ -1,0 +1,1 @@
+javascript:var d=document,w=window,e=w.getSelection,k=d.getSelection,x=d.selection,s=(e?e():(k)?k():(x?x.createRange().text:0)),f='',l=d.location,e=encodeURIComponent,u='{"h":"'+e(l.href)+'","t":"'+e(d.title)+'","s":"'+e(s)+'"}';window.prompt ("Copy to clipboard: Ctrl+C, Enter", u);void(0)

@@ -1,0 +1,31 @@
+/*first version*/
+/*dt{float:left}
+dt > h3{width:230px;}
+dt > dl{width:230px; padding:5px}
+dd{display:none}
+h3{overflow:hidden; word-break: break-all; height:40px}
+h3:hover{background-color:#eee}
+h1+dl{width:80%; margin-left:auto; margin-right:auto}
+p{display:none}
+h3+dl+p+dt{height:22px}
+h1+dl+p+dt{height:auto}*/
+
+/*second version*/
+/*dt{float:left; width:230px}
+dd{display:none}
+h3{overflow:hidden; word-break: break-all; height:40px}
+h3:hover{background-color:#eee}
+h1+dl{width:80%; margin-left:auto; margin-right:auto}
+h3+dl{min-height:300px;}
+h3+dl dt{border:1px solid #eee; height:20px; overflow:hidden}
+hr, p {display:none}*/
+
+/*third version*/
+/*h3{overflow:hidden; word-break: break-all; height:40px}
+dt{float:left; width:230px}
+dd{display:none}
+h3:hover{background-color:#eee}
+h1+dl{width:80%; margin-left:auto; margin-right:auto}
+h3+dl{min-height:500px;}
+hr, p {display:none}*/
+

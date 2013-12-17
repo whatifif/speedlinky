@@ -1,0 +1,11 @@
+/* LIST #3 */
+/*.foldercontent { }
+.foldercontent ul { list-style-image: url("images/arrow.png"); color:#eee; font-size:18px; }
+.foldercontent ul li { line-height:30px; }
+.ui-state-default{background-color:#eee}*/
+
+.foldercontent { }
+.folderhead{background-color:#ddd; color:#555; font-size:18px;}
+.foldercontent ul { color:#eee; font-size:18px; }
+.foldercontent ul li { line-height:30px; }
+.ui-state-default{background-color:#eee}
