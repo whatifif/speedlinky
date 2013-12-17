@@ -3,7 +3,7 @@
 ## What is speedlinky
 Speedlinky is an innovative local bookmark management application.
 
-You can use this to management of your bookmark locally.
+You can use this to manage your bookmark totally locally.
 
 ## How to use
 
@@ -26,7 +26,7 @@ There are two methods to use this.
 4. Find the wrench menu at the top of the page.
 5. Find the import bookmark button
 6. Paste your bookmark file into this area and click the import button.
-7. Your bookmark will be imported and processed totaly localy.
+7. Your bookmark will be imported and processed totally locally.
 8. Enjoy your local bookmark management.
 
 ## Supported browser
