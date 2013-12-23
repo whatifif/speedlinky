@@ -1,21 +1,21 @@
 /*general-----------------*/
+.navbar-nav.secondary{float:right}
 body{display:none}
 [class*="span"]{margin-left:10px}
 .clear{clear:both}
 .highlight{ background-color: yellow;}
-/*.center{margin-left:auto; margin-right:auto;width:90%}*/
+/*.center{margin-left:auto; margin-right:auto;width:100%}*/
 .center{margin-left:auto; margin-right:auto;width:70%}
-[class^=icon-]:hover{background-color: #fff; cursor:pointer}
+[class^=icon-]:hover{background-color: #fff; cursor:pointer; max-height:10px}
 #message{background: #eee; border: 3px solid green; color:green; padding:10px; display:none; z-index:999}
 #errormessage{background: #eee; border: 3px solid red; color:red; padding:10px; display:none; z-index:999}
-#searchinput{width:150px}
+#searchinput{width:150px; height:20px}
 #pagetitle{margin-left:3px}
 #main, #main-wrapper{max-width:1900px}
 
-
 /*menu------------------*/
 .refreshpage {width:120px;}
-#menu .btn, #menu input{margin:5px;}
+#menu .btn, #menu input{margin:3px;}
 #sortfolders{padding:3px}
 /*#menu{visibility:hidden}*/
 /*#menu:hover{visibility:visible}*/
@@ -77,9 +77,15 @@ ul{list-style: none}
 #foldermoremenu, #pagemoremenu, #pagetools, #widgeticontable{display:none}
 #folderrecom, #folderclose, #foldermore, #folderless, #pagerecom, #pageclose, #pagemore, #pageless, #closetools{padding:4px; margin-bottom:5px}
 /*#linkeditor, #foldereditor, #areaeditor{border: 2px solid #555; padding:20px 20px 30px 20px; width:220px; z-index:99}*/
-#linkeditor, #foldereditor, #areaeditor, #pageeditor, #pagetools{border: 2px solid #555; padding:20px; width:220px; z-index:99; display:none}
+/*#linkeditor, #foldereditor, #areaeditor, #pageeditor, #pagetools{border: 2px solid #555; padding:20px; width:220px; z-index:99; display:none}*/
+#linkeditor, #foldereditor, #areaeditor, #pageeditor, #pagetools{border: 2px solid #555; padding:20px; width:280px; z-index:99; display:none}
 /*#linkeditor input, #foldereditor input{width:200px;}*/
-#linkeditor label, #foldereditor label, #pageeditor label, #pagetools label{ margin-bottom:1px;margin-top:5px; width:30px}
+/*#linkeditor label, #foldereditor label, #pageeditor label, #pagetools label{ margin-bottom:1px;margin-top:5px}*/
+#linkeditor label, #foldereditor label, #pageeditor label, #pagetools .label{ margin-bottom:1px;margin-top:5px; width:100px}
+#linkeditor input, #foldereditor input, #pageeditor input, #pagetools input{ height:30px}
+#linkeditor select, #linkeditor input, #linkeditor textarea{ width:250px}
+#foldereditor select, #foldereditor input, #foldereditor textarea{ width:250px}
+#pageeditor select, #pageeditor input, #pageeditor textarea{ width:250px}
 #linkmenu, #foldermenu, #pageeditormenu{padding:5px; font-size:1.2em}
 #linkeditor span, #foldereditor span, #pageeditor span{float:right;margin-left:2px}
 
@@ -89,7 +95,7 @@ ul{list-style: none}
 
 /*pagetools*/
 #pagetools #closetools{float:right}
-#pagetools .btn{display:block}
+#pagetools .btn{display:block; margin-top:5px}
 #bookmarklet{margin-left:80px}
 
 /*importer*/
