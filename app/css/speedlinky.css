@@ -79,7 +79,7 @@ ul{list-style: none}
 /*#linkeditor, #foldereditor, #areaeditor{border: 2px solid #555; padding:20px 20px 30px 20px; width:220px; z-index:99}*/
 #linkeditor, #foldereditor, #areaeditor, #pageeditor, #pagetools{border: 2px solid #555; padding:20px; width:220px; z-index:99; display:none}
 /*#linkeditor input, #foldereditor input{width:200px;}*/
-#linkeditor label, #foldereditor label, #pageeditor label, #pagetools label{ margin-bottom:1px;margin-top:5px}
+#linkeditor label, #foldereditor label, #pageeditor label, #pagetools label{ margin-bottom:1px;margin-top:5px; width:30px}
 #linkmenu, #foldermenu, #pageeditormenu{padding:5px; font-size:1.2em}
 #linkeditor span, #foldereditor span, #pageeditor span{float:right;margin-left:2px}
 
